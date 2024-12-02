@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:02/12/2024
+## Register Number:24900957
+## Name:thavanesh B
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
